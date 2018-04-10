@@ -4,6 +4,7 @@ https://weird.wedding
 
 # Change Log
 
+* 2.2.1 – Added reg link up top
 * 2.2.0 – Added menu + after party
 * 2.1.0 – Updated with details and photos!
 * 2.0.0 – Updates for WW (Massively Template)
