@@ -4,6 +4,7 @@ https://weird.wedding
 
 # Change Log
 
+* 3.0.0 – Post-wedding thanks & readings added
 * 2.2.2 – Copy fix
 * 2.2.1 – Added reg link up top
 * 2.2.0 – Added menu + after party
